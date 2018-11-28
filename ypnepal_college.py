@@ -11,7 +11,7 @@ def removeDuplicates(listofElements):
             uniqueLinks.append(elem)
     return uniqueLinks
 
-page = ("http://www.ypnepal.com/index.php?cat=530&Schools-&-Higher-Secondary-Schools")
+page = ("http://www.ypnepal.com/index.php?cat=196&Colleges")
 
 m_page = (page)
 

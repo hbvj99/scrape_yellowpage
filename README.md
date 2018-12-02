@@ -1,6 +1,6 @@
 # Scraping Yellow Pages
 
-This repository consist of python scripts which scrapes data from yellow pages using BeautifulSoup. Beautiful Soup is a Python package for parsing HTML and XML documents.
+A collection of python scripts which scrapes data from yellow pages using BeautifulSoup. Beautiful Soup is a Python package for parsing HTML and XML documents.
 
 ### Webpages
 

@@ -1,6 +1,8 @@
-# Scraping Yellow Pages
+# Web Scraping Yellow Pages
 
 A collection of python scripts which scrapes data from yellow pages using BeautifulSoup. Beautiful Soup is a Python package for parsing HTML and XML documents. The data includes schools and colleges in Nepal. 
+
+You can learn about Beautiful Soup on parsing html document following its <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank">documentaton</a>. I suggest on reading articles from <a href="https://www.dataquest.io/blog/web-scraping-beautifulsoup/" target="_blank">dataquest</a> <a href="https://www.datacamp.com/community/tutorials/web-scraping-using-python" target="_blank">datacamp</a> to learn how data  is extracted within HTML document.
 
 ## Webpages
 
@@ -61,8 +63,9 @@ B & C Medical College & Teaching Hospital & Research Center,Birtamod-5,Jhapa,Nep
 ### Contributions
 You can modify the content, optimize the code or even use the dataset commercially as you may like. You can credit me by mentioning this repository if you wish. Pull requests are welcomed.
 
-SUPPORT OPEN-SOURCE!
+SUPPORT :heart: OPEN-SOURCE!
 
+---
 
 ## License
 

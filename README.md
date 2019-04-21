@@ -30,7 +30,7 @@ python yellowpagesnepal_school.py
 
 ---
 ## How to use data
-The scripts dump the data in CSV, JSON files. You can click  <a href="https://github.com/hbvj99/dataset-collection" target="_blank">here</a> to find more dataset like this. Please refer to the licence below on how you can manipulate the data. The different information each files crawl from yellow pages includes;
+The scripts dumps the data in CSV, JSON files. You can click  <a href="https://github.com/hbvj99/dataset-collection" target="_blank">here</a> to find more dataset like this. Please refer to the licence below on how you can manipulate the data. The different information each files crawl from yellow pages includes;
 ```
 - Name
 - Address
